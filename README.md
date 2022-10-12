@@ -1,1 +1,1 @@
-# Amazom-prime-clone-
+# Amazon-prime-clone-
